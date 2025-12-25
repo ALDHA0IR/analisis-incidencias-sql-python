@@ -1,0 +1,501 @@
+﻿id_incidencia,fecha_reporte,mes_reporte,hora_reporte,estacion,linea,tipo_equipo,tipo_incidencia,prioridad,estado,fecha_atencion,tiempo_atencion_horas,area_responsable
+1,25/11/2023,2023-11,01:52:00,Cabitos,Línea 1,Ascensor,Falla mecánica,Baja,En curso,,,Mantenimiento
+2,11/05/2024,2024-05,04:20:00,Villa El Salvador,Línea 1,Torniquete,Mantenimiento preventivo,Media,Atendida,12/05/2024,10,Telecomunicaciones
+3,3/03/2023,2023-03,17:46:00,Villa El Salvador,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,5/03/2023,4,Telecomunicaciones
+4,28/01/2023,2023-01,15:43:00,Villa El Salvador,Línea 1,Escalera eléctrica,Falla eléctrica,Alta,Atendida,28/01/2023,13,Mantenimiento
+5,15/06/2023,2023-06,01:13:00,Angamos,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,17/06/2023,12,Telecomunicaciones
+6,25/03/2023,2023-03,07:44:00,Cabitos,Línea 1,MET,Falla mecánica,Media,Atendida,26/03/2023,14,Telecomunicaciones
+7,9/11/2023,2023-11,00:12:00,Bayóvar,Línea 1,Radio,Falla eléctrica,Baja,Atendida,9/11/2023,5,Telecomunicaciones
+8,13/09/2023,2023-09,19:34:00,Villa El Salvador,Línea 1,Radio,Falla eléctrica,Alta,Atendida,15/09/2023,23,Telecomunicaciones
+9,2/01/2024,2024-01,13:54:00,Villa El Salvador,Línea 1,Radio,Falla eléctrica,Media,Atendida,3/01/2024,14,Telecomunicaciones
+10,8/07/2023,2023-07,13:21:00,Cabitos,Línea 1,Ascensor,Falla eléctrica,Baja,Atendida,10/07/2023,5,Mantenimiento
+11,19/05/2023,2023-05,17:45:00,Angamos,Línea 1,Radio,Falla mecánica,Alta,Atendida,19/05/2023,4,Telecomunicaciones
+12,21/04/2023,2023-04,07:05:00,San Carlos,Línea 1,Ascensor,Falla eléctrica,Alta,Atendida,23/04/2023,2,Mantenimiento
+13,13/10/2023,2023-10,06:03:00,San Borja Sur,Línea 1,Torniquete,Falla eléctrica,Media,Pendiente,,,Telecomunicaciones
+14,2/04/2024,2024-04,23:43:00,Cabitos,Línea 1,Escalera eléctrica,Daño en infraestructura,Baja,Atendida,3/04/2024,19,Mantenimiento
+15,15/06/2024,2024-06,05:51:00,Atocongo,Línea 1,Torniquete,Falla mecánica,Media,Atendida,16/06/2024,23,Telecomunicaciones
+16,17/12/2024,2024-12,05:02:00,Angamos,Línea 1,Escalera eléctrica,Daño en infraestructura,Baja,En curso,,,Mantenimiento
+17,4/01/2023,2023-01,21:32:00,Gamarra,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,4/01/2023,1,Telecomunicaciones
+18,28/12/2023,2023-12,06:03:00,Bayóvar,Línea 1,Ascensor,Daño en infraestructura,Baja,En curso,,,Mantenimiento
+19,14/05/2024,2024-05,03:33:00,Santa Rosa,Línea 1,TVM,Falla eléctrica,Baja,Atendida,15/05/2024,11,Telecomunicaciones
+20,1/06/2024,2024-06,14:54:00,La Cultura,Línea 1,MET,Falla mecánica,Alta,Pendiente,,,Telecomunicaciones
+21,26/07/2023,2023-07,21:30:00,Ayacucho,Línea 1,MET,Daño en infraestructura,Baja,Atendida,28/07/2023,9,Telecomunicaciones
+22,15/10/2023,2023-10,08:27:00,San Borja Sur,Línea 1,TVM,Falla eléctrica,Alta,Pendiente,,,Telecomunicaciones
+23,16/02/2023,2023-02,09:20:00,La Cultura,Línea 1,Ascensor,Falla mecánica,Media,Atendida,18/02/2023,19,Mantenimiento
+24,9/05/2023,2023-05,11:58:00,Bayóvar,Línea 1,Escalera eléctrica,Falla eléctrica,Media,Atendida,11/05/2023,12,Mantenimiento
+25,18/03/2024,2024-03,00:31:00,San Borja Sur,Línea 1,Ascensor,Daño en infraestructura,Baja,Atendida,20/03/2024,19,Mantenimiento
+26,23/01/2024,2024-01,00:08:00,San Borja Sur,Línea 1,MET,Falla eléctrica,Alta,Atendida,25/01/2024,4,Telecomunicaciones
+27,29/01/2023,2023-01,13:56:00,San Borja Sur,Línea 1,MET,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+28,21/09/2023,2023-09,23:36:00,Ayacucho,Línea 1,Torniquete,Falla eléctrica,Alta,Atendida,23/09/2023,2,Telecomunicaciones
+29,12/05/2024,2024-05,07:28:00,Bayóvar,Línea 1,Torniquete,Falla mecánica,Baja,En curso,,,Telecomunicaciones
+30,12/12/2024,2024-12,05:50:00,Ayacucho,Línea 1,Torniquete,Mantenimiento preventivo,Baja,Atendida,13/12/2024,23,Telecomunicaciones
+31,9/03/2023,2023-03,10:24:00,San Carlos,Línea 1,Radio,Daño en infraestructura,Media,Atendida,11/03/2023,22,Telecomunicaciones
+32,6/02/2023,2023-02,20:34:00,Villa El Salvador,Línea 1,TVM,Daño en infraestructura,Baja,Pendiente,,,Telecomunicaciones
+33,8/05/2023,2023-05,13:07:00,Gamarra,Línea 1,MET,Falla eléctrica,Alta,En curso,,,Telecomunicaciones
+34,22/02/2024,2024-02,03:17:00,Bayóvar,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Baja,Atendida,23/02/2024,20,Mantenimiento
+35,5/08/2024,2024-08,13:27:00,Villa El Salvador,Línea 1,Escalera eléctrica,Daño en infraestructura,Alta,Pendiente,,,Mantenimiento
+36,1/03/2023,2023-03,19:09:00,Santa Rosa,Línea 1,Torniquete,Daño en infraestructura,Baja,En curso,,,Telecomunicaciones
+37,9/08/2024,2024-08,19:53:00,Santa Rosa,Línea 1,MET,Mantenimiento preventivo,Alta,Atendida,9/08/2024,9,Telecomunicaciones
+38,23/02/2023,2023-02,16:08:00,Bayóvar,Línea 1,TVM,Falla mecánica,Media,En curso,,,Telecomunicaciones
+39,9/04/2024,2024-04,01:13:00,Bayóvar,Línea 1,TVM,Falla eléctrica,Alta,Atendida,11/04/2024,18,Telecomunicaciones
+40,23/01/2023,2023-01,09:58:00,La Cultura,Línea 1,Radio,Daño en infraestructura,Baja,Atendida,23/01/2023,7,Telecomunicaciones
+41,23/12/2023,2023-12,14:06:00,Cabitos,Línea 1,Ascensor,Falla eléctrica,Alta,En curso,,,Mantenimiento
+42,13/10/2023,2023-10,10:23:00,Santa Rosa,Línea 1,Ascensor,Daño en infraestructura,Alta,Atendida,14/10/2023,23,Mantenimiento
+43,23/05/2024,2024-05,07:17:00,Cabitos,Línea 1,TVM,Mantenimiento preventivo,Baja,Atendida,25/05/2024,15,Telecomunicaciones
+44,3/04/2024,2024-04,05:52:00,Angamos,Línea 1,Escalera eléctrica,Daño en infraestructura,Alta,Atendida,5/04/2024,6,Mantenimiento
+45,19/02/2023,2023-02,11:14:00,San Carlos,Línea 1,Escalera eléctrica,Daño en infraestructura,Media,Pendiente,,,Mantenimiento
+46,10/06/2024,2024-06,18:20:00,San Carlos,Línea 1,Radio,Falla mecánica,Baja,Pendiente,,,Telecomunicaciones
+47,31/03/2023,2023-03,18:27:00,San Carlos,Línea 1,TVM,Falla eléctrica,Baja,Atendida,31/03/2023,23,Telecomunicaciones
+48,21/05/2024,2024-05,02:06:00,Bayóvar,Línea 1,TVM,Falla mecánica,Baja,Atendida,22/05/2024,6,Telecomunicaciones
+49,2/07/2024,2024-07,21:16:00,Santa Rosa,Línea 1,Torniquete,Falla mecánica,Alta,En curso,,,Telecomunicaciones
+50,30/07/2024,2024-07,17:36:00,Pumacahua,Línea 1,Radio,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+51,9/02/2024,2024-02,21:12:00,Angamos,Línea 1,Ascensor,Daño en infraestructura,Alta,Atendida,11/02/2024,22,Mantenimiento
+52,11/06/2023,2023-06,07:18:00,Santa Rosa,Línea 1,Escalera eléctrica,Falla mecánica,Baja,Atendida,13/06/2023,6,Mantenimiento
+53,7/12/2024,2024-12,18:15:00,Ayacucho,Línea 1,Torniquete,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+54,20/04/2023,2023-04,18:53:00,Atocongo,Línea 1,MET,Falla mecánica,Media,Atendida,22/04/2023,14,Telecomunicaciones
+55,28/02/2024,2024-02,03:55:00,Atocongo,Línea 1,Radio,Daño en infraestructura,Media,Atendida,28/02/2024,2,Telecomunicaciones
+56,13/05/2024,2024-05,16:26:00,Gamarra,Línea 1,Ascensor,Falla mecánica,Alta,Atendida,14/05/2024,11,Mantenimiento
+57,8/10/2023,2023-10,21:45:00,Santa Rosa,Línea 1,Escalera eléctrica,Falla mecánica,Baja,Atendida,8/10/2023,24,Mantenimiento
+58,14/03/2023,2023-03,15:13:00,Cabitos,Línea 1,Escalera eléctrica,Falla mecánica,Media,Atendida,14/03/2023,1,Mantenimiento
+59,25/03/2024,2024-03,02:22:00,San Borja Sur,Línea 1,Radio,Falla eléctrica,Media,Pendiente,,,Telecomunicaciones
+60,5/11/2023,2023-11,22:36:00,Ayacucho,Línea 1,Escalera eléctrica,Daño en infraestructura,Alta,Atendida,7/11/2023,3,Mantenimiento
+61,23/07/2024,2024-07,15:32:00,Villa El Salvador,Línea 1,MET,Mantenimiento preventivo,Baja,Pendiente,,,Telecomunicaciones
+62,9/12/2023,2023-12,05:02:00,San Borja Sur,Línea 1,Torniquete,Daño en infraestructura,Media,Atendida,10/12/2023,13,Telecomunicaciones
+63,8/01/2023,2023-01,09:46:00,Villa El Salvador,Línea 1,Torniquete,Falla mecánica,Alta,En curso,,,Telecomunicaciones
+64,27/02/2023,2023-02,19:29:00,Bayóvar,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,1/03/2023,24,Telecomunicaciones
+65,31/08/2024,2024-08,22:21:00,Gamarra,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Media,Pendiente,,,Mantenimiento
+66,29/06/2023,2023-06,18:41:00,Ayacucho,Línea 1,TVM,Falla mecánica,Alta,En curso,,,Telecomunicaciones
+67,20/02/2024,2024-02,21:44:00,Pumacahua,Línea 1,Ascensor,Falla mecánica,Media,Pendiente,,,Mantenimiento
+68,16/09/2024,2024-09,08:06:00,San Borja Sur,Línea 1,Radio,Falla eléctrica,Media,Atendida,18/09/2024,24,Telecomunicaciones
+69,8/07/2023,2023-07,20:13:00,San Borja Sur,Línea 1,TVM,Daño en infraestructura,Alta,Atendida,8/07/2023,6,Telecomunicaciones
+70,6/02/2023,2023-02,08:11:00,Bayóvar,Línea 1,Radio,Mantenimiento preventivo,Baja,Pendiente,,,Telecomunicaciones
+71,30/04/2023,2023-04,01:39:00,Bayóvar,Línea 1,Radio,Mantenimiento preventivo,Baja,Atendida,1/05/2023,12,Telecomunicaciones
+72,30/09/2024,2024-09,19:34:00,Villa El Salvador,Línea 1,MET,Mantenimiento preventivo,Baja,Atendida,1/10/2024,3,Telecomunicaciones
+73,17/08/2024,2024-08,16:42:00,Atocongo,Línea 1,Escalera eléctrica,Falla mecánica,Media,Atendida,18/08/2024,20,Mantenimiento
+74,1/05/2024,2024-05,15:34:00,La Cultura,Línea 1,Torniquete,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+75,25/04/2024,2024-04,22:39:00,Ayacucho,Línea 1,Radio,Daño en infraestructura,Alta,En curso,,,Telecomunicaciones
+76,18/02/2023,2023-02,07:57:00,Cabitos,Línea 1,Ascensor,Daño en infraestructura,Alta,Pendiente,,,Mantenimiento
+77,2/11/2023,2023-11,01:16:00,Pumacahua,Línea 1,Torniquete,Daño en infraestructura,Media,Atendida,4/11/2023,6,Telecomunicaciones
+78,24/01/2023,2023-01,13:50:00,San Carlos,Línea 1,TVM,Daño en infraestructura,Alta,Atendida,24/01/2023,21,Telecomunicaciones
+79,19/04/2023,2023-04,07:26:00,Ayacucho,Línea 1,TVM,Falla eléctrica,Media,Atendida,20/04/2023,20,Telecomunicaciones
+80,5/04/2023,2023-04,19:34:00,Villa El Salvador,Línea 1,Radio,Falla mecánica,Alta,En curso,,,Telecomunicaciones
+81,5/03/2024,2024-03,10:09:00,San Borja Sur,Línea 1,Escalera eléctrica,Daño en infraestructura,Media,Atendida,7/03/2024,2,Mantenimiento
+82,8/09/2023,2023-09,19:54:00,Cabitos,Línea 1,Torniquete,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+83,5/11/2023,2023-11,09:02:00,Atocongo,Línea 1,Ascensor,Daño en infraestructura,Media,Pendiente,,,Mantenimiento
+84,22/08/2024,2024-08,11:10:00,San Carlos,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Media,Atendida,22/08/2024,19,Mantenimiento
+85,29/09/2024,2024-09,18:04:00,Angamos,Línea 1,Escalera eléctrica,Falla eléctrica,Media,Atendida,30/09/2024,13,Mantenimiento
+86,25/11/2023,2023-11,00:56:00,Angamos,Línea 1,Escalera eléctrica,Falla mecánica,Baja,En curso,,,Mantenimiento
+87,8/08/2024,2024-08,20:34:00,Ayacucho,Línea 1,TVM,Mantenimiento preventivo,Baja,Atendida,10/08/2024,16,Telecomunicaciones
+88,3/10/2024,2024-10,12:02:00,Gamarra,Línea 1,Torniquete,Falla mecánica,Media,Atendida,4/10/2024,4,Telecomunicaciones
+89,14/05/2023,2023-05,07:53:00,Angamos,Línea 1,Torniquete,Daño en infraestructura,Media,Atendida,14/05/2023,4,Telecomunicaciones
+90,21/08/2024,2024-08,19:11:00,Ayacucho,Línea 1,MET,Mantenimiento preventivo,Baja,En curso,,,Telecomunicaciones
+91,7/11/2023,2023-11,10:24:00,Pumacahua,Línea 1,TVM,Daño en infraestructura,Media,En curso,,,Telecomunicaciones
+92,28/09/2023,2023-09,22:11:00,Atocongo,Línea 1,Ascensor,Mantenimiento preventivo,Media,Atendida,30/09/2023,7,Mantenimiento
+93,4/09/2024,2024-09,13:40:00,Pumacahua,Línea 1,Escalera eléctrica,Falla eléctrica,Media,En curso,,,Mantenimiento
+94,19/07/2023,2023-07,12:34:00,San Carlos,Línea 1,Torniquete,Daño en infraestructura,Alta,Pendiente,,,Telecomunicaciones
+95,7/03/2024,2024-03,15:48:00,Ayacucho,Línea 1,Escalera eléctrica,Falla eléctrica,Baja,Pendiente,,,Mantenimiento
+96,13/06/2024,2024-06,03:45:00,Santa Rosa,Línea 1,TVM,Falla eléctrica,Baja,Atendida,15/06/2024,4,Telecomunicaciones
+97,16/06/2023,2023-06,17:06:00,Ayacucho,Línea 1,MET,Daño en infraestructura,Alta,Atendida,18/06/2023,20,Telecomunicaciones
+98,23/04/2024,2024-04,18:10:00,La Cultura,Línea 1,Ascensor,Falla mecánica,Baja,Atendida,23/04/2024,12,Mantenimiento
+99,13/11/2024,2024-11,12:40:00,Atocongo,Línea 1,TVM,Mantenimiento preventivo,Baja,Atendida,15/11/2024,24,Telecomunicaciones
+100,10/11/2023,2023-11,03:28:00,Bayóvar,Línea 1,Radio,Falla mecánica,Media,En curso,,,Telecomunicaciones
+101,21/06/2023,2023-06,23:39:00,Santa Rosa,Línea 1,MET,Falla eléctrica,Baja,Atendida,22/06/2023,8,Telecomunicaciones
+102,15/12/2023,2023-12,02:05:00,Gamarra,Línea 1,Ascensor,Mantenimiento preventivo,Baja,En curso,,,Mantenimiento
+103,12/06/2024,2024-06,10:56:00,San Carlos,Línea 1,Torniquete,Daño en infraestructura,Media,Atendida,14/06/2024,13,Telecomunicaciones
+104,18/12/2023,2023-12,12:35:00,Cabitos,Línea 1,MET,Falla eléctrica,Media,Atendida,18/12/2023,5,Telecomunicaciones
+105,9/11/2023,2023-11,23:20:00,Santa Rosa,Línea 1,Ascensor,Daño en infraestructura,Baja,Pendiente,,,Mantenimiento
+106,23/05/2024,2024-05,16:08:00,Santa Rosa,Línea 1,Radio,Mantenimiento preventivo,Alta,Atendida,24/05/2024,8,Telecomunicaciones
+107,16/08/2023,2023-08,05:47:00,San Borja Sur,Línea 1,Escalera eléctrica,Falla eléctrica,Alta,En curso,,,Mantenimiento
+108,9/10/2024,2024-10,02:26:00,La Cultura,Línea 1,MET,Daño en infraestructura,Alta,En curso,,,Telecomunicaciones
+109,16/06/2024,2024-06,09:03:00,San Carlos,Línea 1,Torniquete,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+110,25/06/2023,2023-06,08:42:00,Gamarra,Línea 1,Ascensor,Falla eléctrica,Media,Atendida,26/06/2023,20,Mantenimiento
+111,5/07/2024,2024-07,12:19:00,Cabitos,Línea 1,Ascensor,Mantenimiento preventivo,Media,Atendida,6/07/2024,16,Mantenimiento
+112,11/08/2023,2023-08,14:27:00,La Cultura,Línea 1,Escalera eléctrica,Daño en infraestructura,Media,Atendida,13/08/2023,12,Mantenimiento
+113,15/03/2023,2023-03,06:31:00,Cabitos,Línea 1,MET,Mantenimiento preventivo,Media,Atendida,16/03/2023,16,Telecomunicaciones
+114,6/05/2024,2024-05,17:03:00,Cabitos,Línea 1,Escalera eléctrica,Falla mecánica,Media,Atendida,8/05/2024,8,Mantenimiento
+115,13/11/2024,2024-11,09:53:00,San Carlos,Línea 1,MET,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+116,27/10/2023,2023-10,16:57:00,Pumacahua,Línea 1,MET,Mantenimiento preventivo,Media,Atendida,29/10/2023,17,Telecomunicaciones
+117,7/01/2023,2023-01,20:26:00,Cabitos,Línea 1,Ascensor,Daño en infraestructura,Media,Atendida,8/01/2023,22,Mantenimiento
+118,22/10/2024,2024-10,08:16:00,La Cultura,Línea 1,MET,Mantenimiento preventivo,Baja,Atendida,23/10/2024,1,Telecomunicaciones
+119,4/06/2023,2023-06,09:51:00,Atocongo,Línea 1,Torniquete,Mantenimiento preventivo,Media,Atendida,5/06/2023,15,Telecomunicaciones
+120,4/07/2023,2023-07,05:12:00,Cabitos,Línea 1,Escalera eléctrica,Daño en infraestructura,Baja,Atendida,5/07/2023,18,Mantenimiento
+121,27/12/2023,2023-12,23:35:00,Villa El Salvador,Línea 1,Escalera eléctrica,Daño en infraestructura,Alta,Atendida,29/12/2023,14,Mantenimiento
+122,14/11/2024,2024-11,23:39:00,Santa Rosa,Línea 1,MET,Falla mecánica,Alta,Atendida,16/11/2024,2,Telecomunicaciones
+123,8/05/2024,2024-05,20:02:00,Atocongo,Línea 1,Radio,Falla eléctrica,Alta,Atendida,10/05/2024,20,Telecomunicaciones
+124,15/11/2024,2024-11,04:56:00,San Borja Sur,Línea 1,TVM,Falla eléctrica,Baja,Atendida,15/11/2024,24,Telecomunicaciones
+125,19/05/2024,2024-05,17:54:00,Villa El Salvador,Línea 1,Torniquete,Falla eléctrica,Alta,En curso,,,Telecomunicaciones
+126,24/03/2024,2024-03,16:57:00,La Cultura,Línea 1,Escalera eléctrica,Falla mecánica,Alta,En curso,,,Mantenimiento
+127,25/10/2023,2023-10,17:06:00,Cabitos,Línea 1,TVM,Falla mecánica,Alta,Atendida,25/10/2023,15,Telecomunicaciones
+128,21/08/2023,2023-08,13:55:00,Bayóvar,Línea 1,Escalera eléctrica,Falla eléctrica,Baja,En curso,,,Mantenimiento
+129,14/07/2024,2024-07,22:19:00,Ayacucho,Línea 1,MET,Mantenimiento preventivo,Baja,Atendida,14/07/2024,23,Telecomunicaciones
+130,20/03/2023,2023-03,05:01:00,Cabitos,Línea 1,TVM,Falla mecánica,Media,Atendida,20/03/2023,4,Telecomunicaciones
+131,20/04/2023,2023-04,06:42:00,Ayacucho,Línea 1,MET,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+132,4/09/2023,2023-09,15:37:00,San Borja Sur,Línea 1,Radio,Falla mecánica,Alta,En curso,,,Telecomunicaciones
+133,9/02/2024,2024-02,20:19:00,Cabitos,Línea 1,MET,Falla mecánica,Baja,Pendiente,,,Telecomunicaciones
+134,24/03/2023,2023-03,04:28:00,Bayóvar,Línea 1,MET,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+135,14/01/2023,2023-01,06:51:00,Bayóvar,Línea 1,MET,Daño en infraestructura,Media,En curso,,,Telecomunicaciones
+136,7/09/2023,2023-09,09:56:00,San Borja Sur,Línea 1,Radio,Falla eléctrica,Baja,Atendida,8/09/2023,15,Telecomunicaciones
+137,24/05/2023,2023-05,21:11:00,Gamarra,Línea 1,TVM,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+138,31/08/2023,2023-08,14:25:00,Atocongo,Línea 1,Torniquete,Daño en infraestructura,Baja,Atendida,1/09/2023,18,Telecomunicaciones
+139,25/02/2023,2023-02,18:52:00,Santa Rosa,Línea 1,Ascensor,Mantenimiento preventivo,Alta,En curso,,,Mantenimiento
+140,23/07/2023,2023-07,05:20:00,Santa Rosa,Línea 1,Ascensor,Mantenimiento preventivo,Media,Atendida,23/07/2023,15,Mantenimiento
+141,1/03/2024,2024-03,05:23:00,San Carlos,Línea 1,MET,Falla mecánica,Baja,Atendida,2/03/2024,7,Telecomunicaciones
+142,11/03/2024,2024-03,17:23:00,Santa Rosa,Línea 1,MET,Falla mecánica,Media,En curso,,,Telecomunicaciones
+143,9/08/2024,2024-08,03:12:00,San Borja Sur,Línea 1,TVM,Falla mecánica,Alta,Atendida,11/08/2024,18,Telecomunicaciones
+144,26/10/2023,2023-10,00:18:00,San Borja Sur,Línea 1,Radio,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+145,20/03/2024,2024-03,05:04:00,San Borja Sur,Línea 1,TVM,Mantenimiento preventivo,Media,Atendida,22/03/2024,22,Telecomunicaciones
+146,1/01/2023,2023-01,11:36:00,Gamarra,Línea 1,Torniquete,Mantenimiento preventivo,Baja,En curso,,,Telecomunicaciones
+147,27/10/2023,2023-10,02:35:00,Angamos,Línea 1,Ascensor,Falla mecánica,Media,Pendiente,,,Mantenimiento
+148,26/08/2023,2023-08,04:40:00,Cabitos,Línea 1,Torniquete,Falla eléctrica,Alta,Atendida,27/08/2023,10,Telecomunicaciones
+149,11/02/2024,2024-02,08:31:00,La Cultura,Línea 1,Torniquete,Daño en infraestructura,Media,Atendida,12/02/2024,7,Telecomunicaciones
+150,8/05/2023,2023-05,18:12:00,Angamos,Línea 1,MET,Falla eléctrica,Baja,En curso,,,Telecomunicaciones
+151,15/06/2024,2024-06,11:35:00,Bayóvar,Línea 1,Escalera eléctrica,Falla mecánica,Media,Atendida,15/06/2024,15,Mantenimiento
+152,1/06/2024,2024-06,04:10:00,Angamos,Línea 1,Torniquete,Falla eléctrica,Baja,En curso,,,Telecomunicaciones
+153,14/12/2023,2023-12,16:53:00,Gamarra,Línea 1,Torniquete,Falla mecánica,Media,Atendida,16/12/2023,15,Telecomunicaciones
+154,11/09/2023,2023-09,05:04:00,San Carlos,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Media,Atendida,12/09/2023,11,Mantenimiento
+155,5/06/2024,2024-06,18:51:00,Cabitos,Línea 1,Torniquete,Falla eléctrica,Media,Atendida,7/06/2024,1,Telecomunicaciones
+156,16/07/2023,2023-07,00:33:00,Pumacahua,Línea 1,Ascensor,Mantenimiento preventivo,Alta,Pendiente,,,Mantenimiento
+157,26/08/2023,2023-08,12:58:00,Villa El Salvador,Línea 1,MET,Falla mecánica,Baja,En curso,,,Telecomunicaciones
+158,13/04/2023,2023-04,09:59:00,San Carlos,Línea 1,Radio,Mantenimiento preventivo,Media,Atendida,15/04/2023,18,Telecomunicaciones
+159,27/06/2023,2023-06,05:00:00,Santa Rosa,Línea 1,Ascensor,Mantenimiento preventivo,Media,Pendiente,,,Mantenimiento
+160,28/10/2023,2023-10,06:55:00,Villa El Salvador,Línea 1,TVM,Daño en infraestructura,Baja,Atendida,29/10/2023,14,Telecomunicaciones
+161,10/02/2023,2023-02,04:24:00,Gamarra,Línea 1,Torniquete,Falla eléctrica,Baja,Atendida,10/02/2023,4,Telecomunicaciones
+162,25/01/2023,2023-01,15:17:00,La Cultura,Línea 1,MET,Falla mecánica,Alta,Atendida,25/01/2023,9,Telecomunicaciones
+163,27/10/2024,2024-10,09:41:00,Angamos,Línea 1,MET,Daño en infraestructura,Media,Atendida,27/10/2024,15,Telecomunicaciones
+164,24/11/2023,2023-11,07:03:00,Atocongo,Línea 1,Escalera eléctrica,Falla eléctrica,Alta,Atendida,25/11/2023,11,Mantenimiento
+165,14/01/2023,2023-01,13:39:00,Pumacahua,Línea 1,Torniquete,Mantenimiento preventivo,Alta,Atendida,16/01/2023,19,Telecomunicaciones
+166,23/05/2023,2023-05,01:23:00,Bayóvar,Línea 1,Torniquete,Daño en infraestructura,Media,Atendida,25/05/2023,21,Telecomunicaciones
+167,23/01/2023,2023-01,09:57:00,Angamos,Línea 1,Torniquete,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+168,13/03/2023,2023-03,20:44:00,Pumacahua,Línea 1,TVM,Daño en infraestructura,Alta,Pendiente,,,Telecomunicaciones
+169,3/10/2023,2023-10,07:31:00,Santa Rosa,Línea 1,Ascensor,Falla mecánica,Media,Atendida,4/10/2023,6,Mantenimiento
+170,7/04/2023,2023-04,11:30:00,San Carlos,Línea 1,Radio,Falla eléctrica,Media,Atendida,9/04/2023,3,Telecomunicaciones
+171,13/08/2024,2024-08,20:16:00,Cabitos,Línea 1,Ascensor,Falla eléctrica,Alta,Atendida,15/08/2024,24,Mantenimiento
+172,21/11/2023,2023-11,02:41:00,Ayacucho,Línea 1,Ascensor,Falla eléctrica,Alta,Atendida,23/11/2023,15,Mantenimiento
+173,17/04/2023,2023-04,05:08:00,Santa Rosa,Línea 1,Ascensor,Falla eléctrica,Alta,En curso,,,Mantenimiento
+174,9/04/2023,2023-04,13:09:00,Cabitos,Línea 1,MET,Daño en infraestructura,Media,Atendida,9/04/2023,14,Telecomunicaciones
+175,11/06/2023,2023-06,03:20:00,Bayóvar,Línea 1,Radio,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+176,29/10/2024,2024-10,08:39:00,Ayacucho,Línea 1,MET,Daño en infraestructura,Media,Atendida,29/10/2024,21,Telecomunicaciones
+177,24/04/2023,2023-04,13:35:00,Pumacahua,Línea 1,Radio,Falla eléctrica,Alta,Atendida,25/04/2023,18,Telecomunicaciones
+178,26/06/2023,2023-06,01:20:00,Gamarra,Línea 1,Torniquete,Falla mecánica,Alta,Pendiente,,,Telecomunicaciones
+179,14/10/2024,2024-10,09:49:00,Pumacahua,Línea 1,MET,Mantenimiento preventivo,Baja,Pendiente,,,Telecomunicaciones
+180,13/05/2023,2023-05,06:36:00,Ayacucho,Línea 1,Torniquete,Falla mecánica,Media,Pendiente,,,Telecomunicaciones
+181,16/02/2023,2023-02,11:03:00,Villa El Salvador,Línea 1,Ascensor,Mantenimiento preventivo,Alta,Atendida,18/02/2023,19,Mantenimiento
+182,11/11/2024,2024-11,21:49:00,Angamos,Línea 1,Ascensor,Falla eléctrica,Baja,Atendida,13/11/2024,19,Mantenimiento
+183,14/12/2023,2023-12,19:03:00,Gamarra,Línea 1,Radio,Falla eléctrica,Media,Atendida,15/12/2023,1,Telecomunicaciones
+184,11/03/2024,2024-03,11:24:00,Pumacahua,Línea 1,TVM,Falla mecánica,Media,Atendida,12/03/2024,21,Telecomunicaciones
+185,21/01/2024,2024-01,20:45:00,San Borja Sur,Línea 1,Radio,Daño en infraestructura,Baja,Atendida,22/01/2024,3,Telecomunicaciones
+186,29/09/2023,2023-09,12:05:00,Pumacahua,Línea 1,Escalera eléctrica,Falla eléctrica,Baja,En curso,,,Mantenimiento
+187,12/10/2023,2023-10,08:07:00,Pumacahua,Línea 1,Escalera eléctrica,Daño en infraestructura,Alta,Atendida,12/10/2023,6,Mantenimiento
+188,17/09/2024,2024-09,18:58:00,Atocongo,Línea 1,Ascensor,Mantenimiento preventivo,Alta,En curso,,,Mantenimiento
+189,25/09/2023,2023-09,09:50:00,Angamos,Línea 1,Radio,Mantenimiento preventivo,Media,Atendida,25/09/2023,5,Telecomunicaciones
+190,23/01/2024,2024-01,09:15:00,La Cultura,Línea 1,TVM,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+191,11/07/2024,2024-07,21:01:00,Pumacahua,Línea 1,Escalera eléctrica,Daño en infraestructura,Baja,Atendida,13/07/2024,3,Mantenimiento
+192,3/09/2024,2024-09,10:31:00,Villa El Salvador,Línea 1,MET,Mantenimiento preventivo,Alta,Atendida,4/09/2024,3,Telecomunicaciones
+193,30/04/2023,2023-04,12:36:00,Gamarra,Línea 1,Ascensor,Mantenimiento preventivo,Media,En curso,,,Mantenimiento
+194,2/11/2023,2023-11,20:49:00,Bayóvar,Línea 1,Ascensor,Falla eléctrica,Baja,Pendiente,,,Mantenimiento
+195,27/05/2024,2024-05,19:07:00,Cabitos,Línea 1,Escalera eléctrica,Falla eléctrica,Alta,Atendida,29/05/2024,3,Mantenimiento
+196,20/12/2023,2023-12,23:03:00,San Borja Sur,Línea 1,Radio,Mantenimiento preventivo,Baja,Atendida,20/12/2023,18,Telecomunicaciones
+197,16/06/2024,2024-06,07:56:00,Cabitos,Línea 1,Torniquete,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+198,10/09/2023,2023-09,12:40:00,Cabitos,Línea 1,Ascensor,Falla mecánica,Alta,Atendida,10/09/2023,16,Mantenimiento
+199,21/05/2023,2023-05,07:34:00,San Carlos,Línea 1,Ascensor,Falla eléctrica,Baja,Pendiente,,,Mantenimiento
+200,3/10/2023,2023-10,05:36:00,San Carlos,Línea 1,Torniquete,Falla mecánica,Media,Pendiente,,,Telecomunicaciones
+201,8/05/2024,2024-05,13:57:00,Pumacahua,Línea 1,MET,Daño en infraestructura,Media,Pendiente,,,Telecomunicaciones
+202,15/01/2024,2024-01,15:53:00,Pumacahua,Línea 1,Torniquete,Daño en infraestructura,Baja,Atendida,15/01/2024,17,Telecomunicaciones
+203,9/02/2024,2024-02,17:06:00,La Cultura,Línea 1,MET,Falla eléctrica,Baja,Atendida,11/02/2024,7,Telecomunicaciones
+204,5/12/2024,2024-12,16:13:00,Villa El Salvador,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Baja,En curso,,,Mantenimiento
+205,11/10/2024,2024-10,16:59:00,Cabitos,Línea 1,Radio,Mantenimiento preventivo,Alta,Atendida,12/10/2024,18,Telecomunicaciones
+206,11/12/2024,2024-12,16:32:00,Gamarra,Línea 1,TVM,Falla eléctrica,Media,Atendida,11/12/2024,21,Telecomunicaciones
+207,11/11/2023,2023-11,08:09:00,Ayacucho,Línea 1,Escalera eléctrica,Falla mecánica,Media,En curso,,,Mantenimiento
+208,13/12/2023,2023-12,16:45:00,Villa El Salvador,Línea 1,Ascensor,Falla mecánica,Alta,Atendida,13/12/2023,11,Mantenimiento
+209,29/08/2024,2024-08,03:20:00,Bayóvar,Línea 1,TVM,Mantenimiento preventivo,Media,Atendida,29/08/2024,22,Telecomunicaciones
+210,25/11/2024,2024-11,17:07:00,Bayóvar,Línea 1,MET,Falla mecánica,Media,Pendiente,,,Telecomunicaciones
+211,10/10/2024,2024-10,06:07:00,Angamos,Línea 1,Ascensor,Falla eléctrica,Baja,En curso,,,Mantenimiento
+212,9/03/2023,2023-03,04:06:00,San Carlos,Línea 1,MET,Falla eléctrica,Media,Pendiente,,,Telecomunicaciones
+213,4/03/2023,2023-03,10:06:00,La Cultura,Línea 1,TVM,Mantenimiento preventivo,Media,Atendida,5/03/2023,4,Telecomunicaciones
+214,16/04/2023,2023-04,17:18:00,Pumacahua,Línea 1,Ascensor,Mantenimiento preventivo,Media,En curso,,,Mantenimiento
+215,20/11/2023,2023-11,04:58:00,La Cultura,Línea 1,Escalera eléctrica,Falla mecánica,Alta,Pendiente,,,Mantenimiento
+216,27/10/2024,2024-10,07:34:00,Ayacucho,Línea 1,Ascensor,Falla mecánica,Alta,En curso,,,Mantenimiento
+217,8/11/2024,2024-11,18:39:00,Santa Rosa,Línea 1,Ascensor,Falla mecánica,Media,Pendiente,,,Mantenimiento
+218,7/07/2024,2024-07,17:27:00,Villa El Salvador,Línea 1,MET,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+219,16/03/2024,2024-03,15:52:00,San Borja Sur,Línea 1,Ascensor,Mantenimiento preventivo,Media,Atendida,18/03/2024,9,Mantenimiento
+220,10/10/2023,2023-10,12:37:00,Ayacucho,Línea 1,Escalera eléctrica,Falla eléctrica,Media,En curso,,,Mantenimiento
+221,13/02/2023,2023-02,04:51:00,San Carlos,Línea 1,TVM,Daño en infraestructura,Media,Pendiente,,,Telecomunicaciones
+222,25/07/2024,2024-07,23:23:00,Pumacahua,Línea 1,Ascensor,Mantenimiento preventivo,Media,Atendida,26/07/2024,5,Mantenimiento
+223,18/02/2024,2024-02,07:12:00,Gamarra,Línea 1,TVM,Falla mecánica,Baja,Atendida,20/02/2024,19,Telecomunicaciones
+224,17/12/2024,2024-12,17:41:00,Pumacahua,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Alta,Pendiente,,,Mantenimiento
+225,23/02/2023,2023-02,21:43:00,San Carlos,Línea 1,Torniquete,Falla eléctrica,Alta,Atendida,24/02/2023,7,Telecomunicaciones
+226,25/02/2023,2023-02,19:41:00,Ayacucho,Línea 1,Torniquete,Falla mecánica,Media,Atendida,26/02/2023,2,Telecomunicaciones
+227,21/02/2023,2023-02,05:59:00,Villa El Salvador,Línea 1,MET,Falla mecánica,Media,Pendiente,,,Telecomunicaciones
+228,16/01/2023,2023-01,08:11:00,San Borja Sur,Línea 1,Torniquete,Falla mecánica,Media,Atendida,17/01/2023,14,Telecomunicaciones
+229,19/03/2024,2024-03,22:35:00,Pumacahua,Línea 1,Radio,Daño en infraestructura,Media,Atendida,21/03/2024,11,Telecomunicaciones
+230,11/06/2023,2023-06,16:09:00,Gamarra,Línea 1,Escalera eléctrica,Falla mecánica,Baja,En curso,,,Mantenimiento
+231,24/11/2024,2024-11,22:34:00,San Carlos,Línea 1,Ascensor,Daño en infraestructura,Media,Atendida,25/11/2024,9,Mantenimiento
+232,22/07/2023,2023-07,20:41:00,Angamos,Línea 1,Ascensor,Mantenimiento preventivo,Baja,Pendiente,,,Mantenimiento
+233,1/07/2024,2024-07,12:49:00,San Carlos,Línea 1,Torniquete,Daño en infraestructura,Baja,En curso,,,Telecomunicaciones
+234,12/04/2023,2023-04,00:58:00,San Carlos,Línea 1,TVM,Falla mecánica,Baja,Atendida,13/04/2023,7,Telecomunicaciones
+235,9/07/2023,2023-07,14:10:00,Bayóvar,Línea 1,TVM,Falla eléctrica,Media,Atendida,11/07/2023,2,Telecomunicaciones
+236,7/06/2024,2024-06,10:13:00,Santa Rosa,Línea 1,TVM,Falla eléctrica,Baja,Atendida,9/06/2024,5,Telecomunicaciones
+237,31/08/2024,2024-08,06:16:00,Pumacahua,Línea 1,Torniquete,Mantenimiento preventivo,Baja,Atendida,31/08/2024,3,Telecomunicaciones
+238,27/01/2023,2023-01,15:43:00,La Cultura,Línea 1,MET,Falla mecánica,Media,Pendiente,,,Telecomunicaciones
+239,22/04/2024,2024-04,04:25:00,Ayacucho,Línea 1,TVM,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+240,24/07/2023,2023-07,13:46:00,Atocongo,Línea 1,MET,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+241,7/07/2023,2023-07,07:21:00,Villa El Salvador,Línea 1,Radio,Falla mecánica,Media,Pendiente,,,Telecomunicaciones
+242,4/05/2023,2023-05,13:59:00,Villa El Salvador,Línea 1,MET,Mantenimiento preventivo,Media,Atendida,4/05/2023,9,Telecomunicaciones
+243,17/10/2023,2023-10,08:08:00,La Cultura,Línea 1,Torniquete,Falla mecánica,Alta,Atendida,19/10/2023,14,Telecomunicaciones
+244,21/09/2024,2024-09,21:33:00,San Borja Sur,Línea 1,TVM,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+245,1/09/2023,2023-09,00:43:00,San Borja Sur,Línea 1,Torniquete,Falla eléctrica,Baja,Pendiente,,,Telecomunicaciones
+246,19/06/2024,2024-06,21:33:00,Gamarra,Línea 1,Radio,Falla mecánica,Baja,En curso,,,Telecomunicaciones
+247,9/12/2024,2024-12,02:47:00,Angamos,Línea 1,Radio,Daño en infraestructura,Baja,Atendida,11/12/2024,20,Telecomunicaciones
+248,26/03/2024,2024-03,16:41:00,Atocongo,Línea 1,MET,Falla eléctrica,Alta,Atendida,28/03/2024,21,Telecomunicaciones
+249,2/10/2024,2024-10,08:50:00,Gamarra,Línea 1,Radio,Falla eléctrica,Baja,Atendida,3/10/2024,8,Telecomunicaciones
+250,25/08/2023,2023-08,16:24:00,Santa Rosa,Línea 1,Ascensor,Falla eléctrica,Baja,Pendiente,,,Mantenimiento
+251,17/11/2023,2023-11,08:53:00,San Borja Sur,Línea 1,Escalera eléctrica,Falla mecánica,Baja,Pendiente,,,Mantenimiento
+252,24/05/2023,2023-05,04:19:00,Angamos,Línea 1,MET,Falla eléctrica,Media,Pendiente,,,Telecomunicaciones
+253,4/11/2024,2024-11,07:19:00,Villa El Salvador,Línea 1,MET,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+254,4/10/2023,2023-10,12:35:00,Gamarra,Línea 1,MET,Daño en infraestructura,Media,Atendida,4/10/2023,22,Telecomunicaciones
+255,29/08/2023,2023-08,15:08:00,Angamos,Línea 1,Radio,Daño en infraestructura,Media,Pendiente,,,Telecomunicaciones
+256,10/09/2024,2024-09,03:52:00,Villa El Salvador,Línea 1,Escalera eléctrica,Falla mecánica,Baja,Pendiente,,,Mantenimiento
+257,8/03/2023,2023-03,02:32:00,Cabitos,Línea 1,Ascensor,Falla mecánica,Media,Pendiente,,,Mantenimiento
+258,24/01/2023,2023-01,23:41:00,Cabitos,Línea 1,MET,Daño en infraestructura,Media,Pendiente,,,Telecomunicaciones
+259,9/06/2023,2023-06,19:20:00,San Carlos,Línea 1,Torniquete,Falla eléctrica,Media,Pendiente,,,Telecomunicaciones
+260,9/10/2023,2023-10,17:54:00,La Cultura,Línea 1,Radio,Mantenimiento preventivo,Media,Atendida,10/10/2023,11,Telecomunicaciones
+261,14/04/2023,2023-04,06:00:00,Atocongo,Línea 1,MET,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+262,19/01/2024,2024-01,14:55:00,La Cultura,Línea 1,MET,Falla mecánica,Baja,Atendida,21/01/2024,3,Telecomunicaciones
+263,8/12/2023,2023-12,15:47:00,Ayacucho,Línea 1,Torniquete,Daño en infraestructura,Alta,Atendida,10/12/2023,15,Telecomunicaciones
+264,26/01/2024,2024-01,18:45:00,Bayóvar,Línea 1,Radio,Falla mecánica,Alta,Atendida,28/01/2024,10,Telecomunicaciones
+265,3/11/2023,2023-11,15:20:00,Gamarra,Línea 1,Radio,Falla eléctrica,Media,Atendida,5/11/2023,8,Telecomunicaciones
+266,30/07/2024,2024-07,06:44:00,Bayóvar,Línea 1,Torniquete,Falla mecánica,Media,Atendida,31/07/2024,15,Telecomunicaciones
+267,20/06/2023,2023-06,18:08:00,Atocongo,Línea 1,TVM,Falla mecánica,Media,Atendida,21/06/2023,15,Telecomunicaciones
+268,23/04/2024,2024-04,13:41:00,Cabitos,Línea 1,TVM,Mantenimiento preventivo,Alta,Pendiente,,,Telecomunicaciones
+269,14/08/2023,2023-08,12:04:00,San Borja Sur,Línea 1,Ascensor,Daño en infraestructura,Media,En curso,,,Mantenimiento
+270,19/12/2024,2024-12,12:08:00,San Carlos,Línea 1,MET,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+271,9/09/2024,2024-09,12:20:00,Cabitos,Línea 1,Radio,Mantenimiento preventivo,Media,Atendida,11/09/2024,14,Telecomunicaciones
+272,26/07/2023,2023-07,18:01:00,Bayóvar,Línea 1,TVM,Daño en infraestructura,Baja,En curso,,,Telecomunicaciones
+273,23/10/2023,2023-10,12:59:00,Santa Rosa,Línea 1,Torniquete,Falla eléctrica,Media,Pendiente,,,Telecomunicaciones
+274,2/01/2024,2024-01,12:33:00,Ayacucho,Línea 1,TVM,Daño en infraestructura,Baja,Pendiente,,,Telecomunicaciones
+275,12/07/2024,2024-07,06:30:00,Santa Rosa,Línea 1,Ascensor,Falla mecánica,Alta,En curso,,,Mantenimiento
+276,28/11/2023,2023-11,16:37:00,San Borja Sur,Línea 1,Escalera eléctrica,Daño en infraestructura,Baja,Atendida,28/11/2023,5,Mantenimiento
+277,15/11/2024,2024-11,04:05:00,Santa Rosa,Línea 1,TVM,Daño en infraestructura,Media,En curso,,,Telecomunicaciones
+278,23/02/2024,2024-02,19:50:00,Angamos,Línea 1,Ascensor,Falla eléctrica,Alta,Atendida,25/02/2024,19,Mantenimiento
+279,21/02/2023,2023-02,14:04:00,Pumacahua,Línea 1,MET,Daño en infraestructura,Alta,Atendida,22/02/2023,6,Telecomunicaciones
+280,16/11/2023,2023-11,02:06:00,Pumacahua,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,18/11/2023,6,Telecomunicaciones
+281,8/08/2023,2023-08,02:02:00,Villa El Salvador,Línea 1,Ascensor,Falla eléctrica,Alta,En curso,,,Mantenimiento
+282,17/07/2023,2023-07,03:39:00,San Borja Sur,Línea 1,Radio,Daño en infraestructura,Baja,Pendiente,,,Telecomunicaciones
+283,2/11/2024,2024-11,06:05:00,Gamarra,Línea 1,Torniquete,Daño en infraestructura,Media,Atendida,3/11/2024,24,Telecomunicaciones
+284,6/11/2023,2023-11,08:55:00,Ayacucho,Línea 1,TVM,Daño en infraestructura,Baja,Pendiente,,,Telecomunicaciones
+285,6/07/2023,2023-07,10:13:00,Pumacahua,Línea 1,TVM,Mantenimiento preventivo,Baja,Pendiente,,,Telecomunicaciones
+286,9/09/2024,2024-09,05:59:00,Atocongo,Línea 1,MET,Falla mecánica,Baja,Atendida,9/09/2024,13,Telecomunicaciones
+287,14/06/2024,2024-06,04:36:00,Angamos,Línea 1,Escalera eléctrica,Falla eléctrica,Alta,Atendida,16/06/2024,15,Mantenimiento
+288,23/04/2023,2023-04,03:47:00,Angamos,Línea 1,MET,Daño en infraestructura,Baja,Atendida,25/04/2023,11,Telecomunicaciones
+289,13/03/2023,2023-03,11:02:00,Gamarra,Línea 1,Ascensor,Falla mecánica,Media,Atendida,15/03/2023,20,Mantenimiento
+290,20/01/2023,2023-01,17:30:00,Angamos,Línea 1,MET,Mantenimiento preventivo,Alta,Pendiente,,,Telecomunicaciones
+291,7/11/2024,2024-11,03:15:00,San Carlos,Línea 1,Torniquete,Daño en infraestructura,Baja,Atendida,7/11/2024,1,Telecomunicaciones
+292,10/12/2024,2024-12,03:46:00,Pumacahua,Línea 1,TVM,Daño en infraestructura,Media,Pendiente,,,Telecomunicaciones
+293,26/05/2023,2023-05,01:04:00,Santa Rosa,Línea 1,Radio,Falla eléctrica,Media,Atendida,28/05/2023,24,Telecomunicaciones
+294,24/09/2024,2024-09,03:59:00,La Cultura,Línea 1,Escalera eléctrica,Falla eléctrica,Media,En curso,,,Mantenimiento
+295,27/06/2023,2023-06,03:51:00,Pumacahua,Línea 1,MET,Mantenimiento preventivo,Baja,Pendiente,,,Telecomunicaciones
+296,19/08/2024,2024-08,22:56:00,Cabitos,Línea 1,Ascensor,Daño en infraestructura,Baja,En curso,,,Mantenimiento
+297,20/02/2024,2024-02,02:47:00,Pumacahua,Línea 1,MET,Daño en infraestructura,Baja,Pendiente,,,Telecomunicaciones
+298,31/01/2023,2023-01,20:07:00,Santa Rosa,Línea 1,Torniquete,Falla eléctrica,Media,Atendida,1/02/2023,5,Telecomunicaciones
+299,4/05/2024,2024-05,04:05:00,San Carlos,Línea 1,Ascensor,Falla eléctrica,Alta,Atendida,4/05/2024,8,Mantenimiento
+300,20/09/2024,2024-09,09:16:00,Santa Rosa,Línea 1,Radio,Falla mecánica,Media,Atendida,21/09/2024,22,Telecomunicaciones
+301,24/04/2024,2024-04,07:16:00,Santa Rosa,Línea 1,Escalera eléctrica,Daño en infraestructura,Media,Atendida,25/04/2024,12,Mantenimiento
+302,3/06/2023,2023-06,18:01:00,Ayacucho,Línea 1,Ascensor,Falla eléctrica,Baja,En curso,,,Mantenimiento
+303,16/07/2023,2023-07,03:09:00,Santa Rosa,Línea 1,Escalera eléctrica,Daño en infraestructura,Media,Atendida,17/07/2023,13,Mantenimiento
+304,23/10/2023,2023-10,02:29:00,Ayacucho,Línea 1,TVM,Falla mecánica,Media,Atendida,25/10/2023,16,Telecomunicaciones
+305,29/08/2023,2023-08,01:30:00,Pumacahua,Línea 1,Ascensor,Mantenimiento preventivo,Media,Pendiente,,,Mantenimiento
+306,21/01/2024,2024-01,20:42:00,Santa Rosa,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,21/01/2024,16,Telecomunicaciones
+307,3/04/2024,2024-04,23:43:00,San Carlos,Línea 1,MET,Falla mecánica,Media,En curso,,,Telecomunicaciones
+308,24/01/2024,2024-01,08:59:00,San Borja Sur,Línea 1,MET,Daño en infraestructura,Media,En curso,,,Telecomunicaciones
+309,5/10/2024,2024-10,07:27:00,Atocongo,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,6/10/2024,22,Telecomunicaciones
+310,23/05/2023,2023-05,05:12:00,Cabitos,Línea 1,Ascensor,Falla eléctrica,Media,En curso,,,Mantenimiento
+311,10/07/2023,2023-07,09:23:00,Santa Rosa,Línea 1,TVM,Mantenimiento preventivo,Media,Atendida,11/07/2023,10,Telecomunicaciones
+312,3/09/2024,2024-09,09:36:00,Cabitos,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,5/09/2024,18,Telecomunicaciones
+313,13/09/2024,2024-09,22:13:00,Pumacahua,Línea 1,TVM,Mantenimiento preventivo,Alta,Atendida,14/09/2024,18,Telecomunicaciones
+314,18/11/2024,2024-11,16:00:00,Pumacahua,Línea 1,Escalera eléctrica,Falla eléctrica,Media,Pendiente,,,Mantenimiento
+315,24/11/2024,2024-11,22:02:00,La Cultura,Línea 1,Torniquete,Mantenimiento preventivo,Media,Atendida,24/11/2024,24,Telecomunicaciones
+316,11/06/2023,2023-06,12:53:00,San Borja Sur,Línea 1,Escalera eléctrica,Daño en infraestructura,Alta,Pendiente,,,Mantenimiento
+317,19/10/2024,2024-10,16:25:00,Atocongo,Línea 1,MET,Daño en infraestructura,Alta,Atendida,21/10/2024,7,Telecomunicaciones
+318,18/11/2024,2024-11,23:48:00,La Cultura,Línea 1,Torniquete,Daño en infraestructura,Media,Atendida,19/11/2024,12,Telecomunicaciones
+319,6/05/2023,2023-05,22:53:00,La Cultura,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Alta,En curso,,,Mantenimiento
+320,13/06/2024,2024-06,11:14:00,San Borja Sur,Línea 1,Ascensor,Daño en infraestructura,Alta,Atendida,13/06/2024,3,Mantenimiento
+321,18/09/2023,2023-09,00:23:00,La Cultura,Línea 1,TVM,Falla mecánica,Baja,Atendida,18/09/2023,19,Telecomunicaciones
+322,21/08/2024,2024-08,18:21:00,Pumacahua,Línea 1,Torniquete,Falla mecánica,Alta,En curso,,,Telecomunicaciones
+323,2/03/2024,2024-03,21:30:00,Santa Rosa,Línea 1,TVM,Daño en infraestructura,Baja,Atendida,2/03/2024,16,Telecomunicaciones
+324,19/12/2024,2024-12,12:22:00,Pumacahua,Línea 1,Escalera eléctrica,Daño en infraestructura,Baja,En curso,,,Mantenimiento
+325,14/08/2023,2023-08,10:40:00,Atocongo,Línea 1,MET,Falla mecánica,Media,Atendida,15/08/2023,2,Telecomunicaciones
+326,21/11/2024,2024-11,16:00:00,San Carlos,Línea 1,TVM,Falla mecánica,Alta,Atendida,23/11/2024,14,Telecomunicaciones
+327,22/11/2024,2024-11,23:41:00,San Borja Sur,Línea 1,TVM,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+328,6/12/2023,2023-12,19:56:00,Villa El Salvador,Línea 1,MET,Mantenimiento preventivo,Baja,Atendida,8/12/2023,21,Telecomunicaciones
+329,20/04/2023,2023-04,17:34:00,San Carlos,Línea 1,Radio,Falla mecánica,Alta,Atendida,21/04/2023,2,Telecomunicaciones
+330,13/12/2023,2023-12,02:30:00,Atocongo,Línea 1,Torniquete,Falla mecánica,Alta,En curso,,,Telecomunicaciones
+331,21/09/2023,2023-09,22:34:00,Pumacahua,Línea 1,TVM,Daño en infraestructura,Media,Pendiente,,,Telecomunicaciones
+332,30/12/2024,2024-12,14:20:00,Pumacahua,Línea 1,Torniquete,Falla eléctrica,Alta,Atendida,1/01/2025,23,Telecomunicaciones
+333,9/12/2024,2024-12,23:30:00,Gamarra,Línea 1,Torniquete,Falla eléctrica,Media,Atendida,10/12/2024,11,Telecomunicaciones
+334,3/10/2024,2024-10,06:46:00,Cabitos,Línea 1,Torniquete,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+335,5/08/2023,2023-08,05:59:00,Pumacahua,Línea 1,Radio,Daño en infraestructura,Baja,Atendida,7/08/2023,9,Telecomunicaciones
+336,6/02/2023,2023-02,04:36:00,San Carlos,Línea 1,Ascensor,Falla eléctrica,Media,Pendiente,,,Mantenimiento
+337,29/04/2024,2024-04,18:14:00,Bayóvar,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Baja,Atendida,1/05/2024,21,Mantenimiento
+338,14/09/2024,2024-09,04:11:00,San Borja Sur,Línea 1,Ascensor,Daño en infraestructura,Media,Atendida,15/09/2024,9,Mantenimiento
+339,17/03/2024,2024-03,18:05:00,Cabitos,Línea 1,Escalera eléctrica,Daño en infraestructura,Media,Pendiente,,,Mantenimiento
+340,26/07/2023,2023-07,05:37:00,Villa El Salvador,Línea 1,Ascensor,Mantenimiento preventivo,Alta,En curso,,,Mantenimiento
+341,6/01/2023,2023-01,15:45:00,Santa Rosa,Línea 1,Ascensor,Daño en infraestructura,Baja,Atendida,7/01/2023,1,Mantenimiento
+342,1/12/2024,2024-12,07:06:00,La Cultura,Línea 1,TVM,Mantenimiento preventivo,Media,Atendida,2/12/2024,10,Telecomunicaciones
+343,14/10/2023,2023-10,20:34:00,Gamarra,Línea 1,Radio,Daño en infraestructura,Media,Pendiente,,,Telecomunicaciones
+344,31/08/2023,2023-08,03:43:00,Bayóvar,Línea 1,MET,Mantenimiento preventivo,Baja,Atendida,1/09/2023,1,Telecomunicaciones
+345,10/09/2024,2024-09,13:30:00,Cabitos,Línea 1,MET,Falla eléctrica,Media,Pendiente,,,Telecomunicaciones
+346,24/06/2023,2023-06,17:21:00,Ayacucho,Línea 1,Torniquete,Mantenimiento preventivo,Alta,Pendiente,,,Telecomunicaciones
+347,8/03/2023,2023-03,17:39:00,Gamarra,Línea 1,Ascensor,Falla mecánica,Alta,Atendida,10/03/2023,3,Mantenimiento
+348,8/01/2024,2024-01,11:56:00,Atocongo,Línea 1,MET,Mantenimiento preventivo,Alta,Pendiente,,,Telecomunicaciones
+349,10/07/2024,2024-07,00:27:00,Santa Rosa,Línea 1,Torniquete,Falla eléctrica,Media,Atendida,12/07/2024,20,Telecomunicaciones
+350,14/09/2024,2024-09,21:11:00,Villa El Salvador,Línea 1,Escalera eléctrica,Falla mecánica,Baja,Atendida,16/09/2024,15,Mantenimiento
+351,9/09/2024,2024-09,19:18:00,Angamos,Línea 1,Torniquete,Falla eléctrica,Alta,Atendida,10/09/2024,6,Telecomunicaciones
+352,9/09/2023,2023-09,00:50:00,Pumacahua,Línea 1,MET,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+353,14/12/2023,2023-12,12:22:00,Atocongo,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Baja,Atendida,15/12/2023,21,Mantenimiento
+354,18/12/2023,2023-12,08:26:00,Bayóvar,Línea 1,TVM,Falla eléctrica,Media,Atendida,18/12/2023,7,Telecomunicaciones
+355,28/10/2023,2023-10,11:39:00,Cabitos,Línea 1,MET,Falla mecánica,Baja,En curso,,,Telecomunicaciones
+356,7/02/2024,2024-02,17:18:00,San Borja Sur,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Baja,Pendiente,,,Mantenimiento
+357,5/04/2023,2023-04,12:07:00,Cabitos,Línea 1,Ascensor,Daño en infraestructura,Alta,En curso,,,Mantenimiento
+358,1/12/2023,2023-12,18:29:00,San Borja Sur,Línea 1,TVM,Falla eléctrica,Media,Atendida,1/12/2023,10,Telecomunicaciones
+359,2/04/2023,2023-04,10:46:00,Ayacucho,Línea 1,MET,Falla mecánica,Alta,Pendiente,,,Telecomunicaciones
+360,23/01/2023,2023-01,04:53:00,Gamarra,Línea 1,MET,Mantenimiento preventivo,Media,En curso,,,Telecomunicaciones
+361,27/08/2023,2023-08,13:55:00,San Carlos,Línea 1,Ascensor,Mantenimiento preventivo,Alta,Atendida,28/08/2023,24,Mantenimiento
+362,1/06/2023,2023-06,20:34:00,Gamarra,Línea 1,TVM,Falla eléctrica,Media,Atendida,3/06/2023,5,Telecomunicaciones
+363,17/09/2023,2023-09,11:03:00,Santa Rosa,Línea 1,Ascensor,Falla eléctrica,Alta,Atendida,18/09/2023,4,Mantenimiento
+364,8/10/2024,2024-10,23:43:00,Gamarra,Línea 1,TVM,Falla mecánica,Baja,Pendiente,,,Telecomunicaciones
+365,7/01/2024,2024-01,15:14:00,Cabitos,Línea 1,TVM,Falla mecánica,Media,Atendida,9/01/2024,14,Telecomunicaciones
+366,25/04/2023,2023-04,10:45:00,Bayóvar,Línea 1,Ascensor,Falla eléctrica,Baja,Pendiente,,,Mantenimiento
+367,8/03/2024,2024-03,13:54:00,Pumacahua,Línea 1,MET,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+368,4/12/2024,2024-12,01:29:00,San Borja Sur,Línea 1,Escalera eléctrica,Falla mecánica,Media,En curso,,,Mantenimiento
+369,6/04/2023,2023-04,19:31:00,San Borja Sur,Línea 1,Torniquete,Mantenimiento preventivo,Media,Atendida,8/04/2023,1,Telecomunicaciones
+370,17/03/2024,2024-03,07:12:00,Pumacahua,Línea 1,TVM,Daño en infraestructura,Media,Atendida,17/03/2024,18,Telecomunicaciones
+371,17/04/2024,2024-04,20:07:00,Pumacahua,Línea 1,Torniquete,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+372,31/03/2024,2024-03,18:28:00,Gamarra,Línea 1,Torniquete,Falla eléctrica,Alta,Atendida,31/03/2024,21,Telecomunicaciones
+373,19/02/2023,2023-02,18:27:00,Gamarra,Línea 1,Ascensor,Daño en infraestructura,Media,Atendida,20/02/2023,12,Mantenimiento
+374,5/03/2023,2023-03,17:19:00,Atocongo,Línea 1,Ascensor,Mantenimiento preventivo,Baja,En curso,,,Mantenimiento
+375,7/03/2023,2023-03,18:26:00,La Cultura,Línea 1,Torniquete,Falla mecánica,Baja,Pendiente,,,Telecomunicaciones
+376,6/07/2023,2023-07,03:04:00,Villa El Salvador,Línea 1,Ascensor,Daño en infraestructura,Media,Atendida,6/07/2023,20,Mantenimiento
+377,24/10/2023,2023-10,10:11:00,Gamarra,Línea 1,MET,Daño en infraestructura,Media,Atendida,24/10/2023,5,Telecomunicaciones
+378,28/01/2024,2024-01,18:36:00,Bayóvar,Línea 1,MET,Falla mecánica,Media,En curso,,,Telecomunicaciones
+379,13/11/2023,2023-11,17:27:00,Villa El Salvador,Línea 1,Escalera eléctrica,Daño en infraestructura,Alta,Atendida,15/11/2023,16,Mantenimiento
+380,8/03/2023,2023-03,20:06:00,La Cultura,Línea 1,Escalera eléctrica,Falla mecánica,Alta,Atendida,8/03/2023,2,Mantenimiento
+381,4/04/2023,2023-04,14:08:00,Cabitos,Línea 1,Ascensor,Falla eléctrica,Alta,En curso,,,Mantenimiento
+382,16/12/2024,2024-12,15:05:00,San Borja Sur,Línea 1,Torniquete,Daño en infraestructura,Media,Pendiente,,,Telecomunicaciones
+383,3/11/2023,2023-11,21:41:00,Ayacucho,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Media,Atendida,5/11/2023,21,Mantenimiento
+384,9/01/2024,2024-01,04:35:00,San Borja Sur,Línea 1,MET,Mantenimiento preventivo,Media,Atendida,9/01/2024,2,Telecomunicaciones
+385,3/03/2024,2024-03,03:45:00,La Cultura,Línea 1,Radio,Daño en infraestructura,Alta,Pendiente,,,Telecomunicaciones
+386,27/04/2023,2023-04,12:51:00,Bayóvar,Línea 1,TVM,Falla mecánica,Baja,Atendida,29/04/2023,3,Telecomunicaciones
+387,6/08/2024,2024-08,07:10:00,La Cultura,Línea 1,Radio,Falla eléctrica,Baja,Atendida,7/08/2024,22,Telecomunicaciones
+388,27/12/2023,2023-12,11:56:00,Santa Rosa,Línea 1,Radio,Daño en infraestructura,Baja,En curso,,,Telecomunicaciones
+389,20/04/2024,2024-04,22:04:00,San Borja Sur,Línea 1,Torniquete,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+390,18/11/2024,2024-11,23:49:00,Cabitos,Línea 1,MET,Daño en infraestructura,Media,Pendiente,,,Telecomunicaciones
+391,24/08/2023,2023-08,00:22:00,Gamarra,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Media,Pendiente,,,Mantenimiento
+392,24/03/2024,2024-03,17:47:00,Santa Rosa,Línea 1,MET,Mantenimiento preventivo,Media,Atendida,24/03/2024,11,Telecomunicaciones
+393,27/10/2024,2024-10,07:19:00,Gamarra,Línea 1,Torniquete,Mantenimiento preventivo,Media,Atendida,27/10/2024,23,Telecomunicaciones
+394,16/07/2023,2023-07,22:44:00,La Cultura,Línea 1,Ascensor,Daño en infraestructura,Baja,Pendiente,,,Mantenimiento
+395,25/09/2023,2023-09,23:25:00,Atocongo,Línea 1,Torniquete,Falla eléctrica,Media,Atendida,25/09/2023,15,Telecomunicaciones
+396,22/09/2024,2024-09,10:07:00,Villa El Salvador,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,24/09/2024,9,Telecomunicaciones
+397,26/02/2023,2023-02,13:30:00,Villa El Salvador,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Media,En curso,,,Mantenimiento
+398,10/10/2023,2023-10,13:24:00,Cabitos,Línea 1,TVM,Mantenimiento preventivo,Baja,Atendida,10/10/2023,2,Telecomunicaciones
+399,18/11/2023,2023-11,19:00:00,Atocongo,Línea 1,Escalera eléctrica,Falla mecánica,Media,Pendiente,,,Mantenimiento
+400,28/10/2024,2024-10,05:43:00,Bayóvar,Línea 1,Torniquete,Daño en infraestructura,Baja,Atendida,30/10/2024,5,Telecomunicaciones
+401,4/06/2023,2023-06,09:29:00,San Borja Sur,Línea 1,Torniquete,Falla mecánica,Alta,Atendida,5/06/2023,13,Telecomunicaciones
+402,28/06/2024,2024-06,17:50:00,Atocongo,Línea 1,TVM,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+403,2/07/2023,2023-07,00:25:00,Cabitos,Línea 1,Radio,Falla eléctrica,Alta,En curso,,,Telecomunicaciones
+404,16/08/2024,2024-08,12:03:00,Gamarra,Línea 1,Torniquete,Daño en infraestructura,Alta,Atendida,16/08/2024,11,Telecomunicaciones
+405,27/03/2024,2024-03,23:53:00,Ayacucho,Línea 1,Ascensor,Falla mecánica,Alta,Atendida,27/03/2024,20,Mantenimiento
+406,30/10/2023,2023-10,19:30:00,Cabitos,Línea 1,Radio,Daño en infraestructura,Media,Atendida,1/11/2023,6,Telecomunicaciones
+407,19/02/2023,2023-02,05:11:00,Bayóvar,Línea 1,TVM,Daño en infraestructura,Media,En curso,,,Telecomunicaciones
+408,27/02/2023,2023-02,12:39:00,Gamarra,Línea 1,Ascensor,Mantenimiento preventivo,Alta,Pendiente,,,Mantenimiento
+409,19/11/2023,2023-11,21:32:00,Pumacahua,Línea 1,Ascensor,Mantenimiento preventivo,Media,Pendiente,,,Mantenimiento
+410,11/09/2023,2023-09,03:55:00,Gamarra,Línea 1,Ascensor,Mantenimiento preventivo,Media,Atendida,13/09/2023,1,Mantenimiento
+411,13/07/2023,2023-07,21:27:00,Santa Rosa,Línea 1,Torniquete,Daño en infraestructura,Media,Atendida,13/07/2023,4,Telecomunicaciones
+412,27/01/2024,2024-01,01:58:00,San Carlos,Línea 1,MET,Daño en infraestructura,Media,Atendida,29/01/2024,6,Telecomunicaciones
+413,22/06/2024,2024-06,18:37:00,Villa El Salvador,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Alta,Atendida,23/06/2024,21,Mantenimiento
+414,20/11/2024,2024-11,04:13:00,Villa El Salvador,Línea 1,TVM,Mantenimiento preventivo,Media,Atendida,22/11/2024,11,Telecomunicaciones
+415,14/09/2024,2024-09,03:24:00,Cabitos,Línea 1,TVM,Falla mecánica,Media,Atendida,15/09/2024,21,Telecomunicaciones
+416,2/09/2023,2023-09,01:59:00,La Cultura,Línea 1,MET,Daño en infraestructura,Alta,Pendiente,,,Telecomunicaciones
+417,26/12/2023,2023-12,08:50:00,Santa Rosa,Línea 1,Radio,Falla eléctrica,Media,Atendida,27/12/2023,16,Telecomunicaciones
+418,26/05/2024,2024-05,07:44:00,San Borja Sur,Línea 1,TVM,Daño en infraestructura,Alta,Atendida,28/05/2024,20,Telecomunicaciones
+419,16/09/2023,2023-09,09:06:00,Santa Rosa,Línea 1,Radio,Falla mecánica,Baja,Atendida,16/09/2023,24,Telecomunicaciones
+420,23/02/2024,2024-02,12:27:00,Ayacucho,Línea 1,Ascensor,Mantenimiento preventivo,Alta,Atendida,25/02/2024,5,Mantenimiento
+421,31/08/2023,2023-08,12:25:00,Ayacucho,Línea 1,Radio,Falla eléctrica,Baja,Atendida,2/09/2023,9,Telecomunicaciones
+422,24/05/2023,2023-05,14:01:00,Bayóvar,Línea 1,Torniquete,Mantenimiento preventivo,Baja,Atendida,26/05/2023,16,Telecomunicaciones
+423,25/08/2024,2024-08,05:57:00,Atocongo,Línea 1,Torniquete,Falla mecánica,Alta,Atendida,26/08/2024,7,Telecomunicaciones
+424,29/01/2023,2023-01,06:42:00,Pumacahua,Línea 1,MET,Daño en infraestructura,Media,Atendida,29/01/2023,20,Telecomunicaciones
+425,10/04/2023,2023-04,00:36:00,Angamos,Línea 1,TVM,Falla eléctrica,Media,En curso,,,Telecomunicaciones
+426,1/09/2023,2023-09,13:24:00,San Borja Sur,Línea 1,Torniquete,Falla eléctrica,Media,Atendida,3/09/2023,18,Telecomunicaciones
+427,24/05/2023,2023-05,15:19:00,Santa Rosa,Línea 1,Escalera eléctrica,Daño en infraestructura,Media,Atendida,26/05/2023,6,Mantenimiento
+428,17/04/2023,2023-04,09:34:00,Villa El Salvador,Línea 1,Ascensor,Daño en infraestructura,Baja,En curso,,,Mantenimiento
+429,29/09/2023,2023-09,19:48:00,San Borja Sur,Línea 1,Ascensor,Daño en infraestructura,Media,Atendida,1/10/2023,4,Mantenimiento
+430,22/12/2023,2023-12,19:01:00,Santa Rosa,Línea 1,Ascensor,Mantenimiento preventivo,Baja,Atendida,22/12/2023,15,Mantenimiento
+431,16/09/2024,2024-09,20:25:00,Pumacahua,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,18/09/2024,5,Telecomunicaciones
+432,24/07/2023,2023-07,03:27:00,Bayóvar,Línea 1,Radio,Mantenimiento preventivo,Media,Atendida,26/07/2023,21,Telecomunicaciones
+433,9/07/2023,2023-07,00:44:00,Villa El Salvador,Línea 1,Ascensor,Falla eléctrica,Baja,Atendida,10/07/2023,20,Mantenimiento
+434,24/05/2023,2023-05,07:58:00,Villa El Salvador,Línea 1,Ascensor,Falla mecánica,Media,Atendida,24/05/2023,16,Mantenimiento
+435,7/10/2024,2024-10,12:25:00,San Carlos,Línea 1,Torniquete,Falla mecánica,Alta,Atendida,7/10/2024,14,Telecomunicaciones
+436,4/09/2024,2024-09,21:15:00,Santa Rosa,Línea 1,Torniquete,Falla mecánica,Media,Pendiente,,,Telecomunicaciones
+437,1/12/2023,2023-12,11:59:00,Bayóvar,Línea 1,Torniquete,Daño en infraestructura,Alta,En curso,,,Telecomunicaciones
+438,8/01/2024,2024-01,14:27:00,Cabitos,Línea 1,TVM,Falla mecánica,Baja,Atendida,9/01/2024,13,Telecomunicaciones
+439,21/09/2024,2024-09,13:11:00,Villa El Salvador,Línea 1,Ascensor,Falla eléctrica,Alta,En curso,,,Mantenimiento
+440,13/10/2023,2023-10,20:20:00,Atocongo,Línea 1,Radio,Mantenimiento preventivo,Baja,En curso,,,Telecomunicaciones
+441,3/10/2024,2024-10,04:01:00,Santa Rosa,Línea 1,Ascensor,Mantenimiento preventivo,Media,Atendida,3/10/2024,21,Mantenimiento
+442,30/01/2024,2024-01,08:56:00,La Cultura,Línea 1,Radio,Mantenimiento preventivo,Media,Atendida,30/01/2024,8,Telecomunicaciones
+443,13/05/2024,2024-05,06:10:00,Atocongo,Línea 1,Radio,Mantenimiento preventivo,Media,Atendida,13/05/2024,15,Telecomunicaciones
+444,27/05/2024,2024-05,13:07:00,Villa El Salvador,Línea 1,MET,Daño en infraestructura,Media,Pendiente,,,Telecomunicaciones
+445,7/11/2024,2024-11,13:45:00,Ayacucho,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Media,Atendida,7/11/2024,15,Mantenimiento
+446,21/09/2024,2024-09,15:51:00,Gamarra,Línea 1,Escalera eléctrica,Daño en infraestructura,Alta,Pendiente,,,Mantenimiento
+447,6/11/2023,2023-11,16:26:00,Pumacahua,Línea 1,Radio,Falla eléctrica,Baja,Atendida,6/11/2023,21,Telecomunicaciones
+448,17/12/2024,2024-12,19:32:00,Pumacahua,Línea 1,Radio,Falla mecánica,Media,Pendiente,,,Telecomunicaciones
+449,19/08/2023,2023-08,15:43:00,Villa El Salvador,Línea 1,Torniquete,Falla eléctrica,Alta,Pendiente,,,Telecomunicaciones
+450,25/08/2024,2024-08,10:52:00,Bayóvar,Línea 1,Ascensor,Falla eléctrica,Media,En curso,,,Mantenimiento
+451,16/05/2023,2023-05,18:29:00,Bayóvar,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Media,Atendida,18/05/2023,21,Mantenimiento
+452,29/11/2023,2023-11,08:38:00,Gamarra,Línea 1,TVM,Daño en infraestructura,Media,Atendida,1/12/2023,7,Telecomunicaciones
+453,1/02/2024,2024-02,11:16:00,Pumacahua,Línea 1,MET,Falla eléctrica,Media,Atendida,2/02/2024,16,Telecomunicaciones
+454,1/05/2023,2023-05,22:52:00,San Carlos,Línea 1,Torniquete,Falla mecánica,Baja,Atendida,2/05/2023,17,Telecomunicaciones
+455,26/03/2023,2023-03,06:23:00,La Cultura,Línea 1,MET,Falla mecánica,Media,Atendida,28/03/2023,13,Telecomunicaciones
+456,4/08/2023,2023-08,05:29:00,San Borja Sur,Línea 1,MET,Falla eléctrica,Media,Atendida,4/08/2023,9,Telecomunicaciones
+457,1/12/2024,2024-12,07:49:00,Bayóvar,Línea 1,Radio,Falla eléctrica,Media,Pendiente,,,Telecomunicaciones
+458,23/09/2023,2023-09,17:30:00,Atocongo,Línea 1,MET,Falla eléctrica,Alta,Atendida,24/09/2023,13,Telecomunicaciones
+459,4/10/2024,2024-10,15:06:00,San Borja Sur,Línea 1,Radio,Mantenimiento preventivo,Media,Atendida,4/10/2024,5,Telecomunicaciones
+460,18/04/2023,2023-04,22:44:00,Cabitos,Línea 1,Radio,Daño en infraestructura,Alta,Atendida,19/04/2023,2,Telecomunicaciones
+461,10/07/2024,2024-07,05:24:00,San Carlos,Línea 1,Radio,Falla eléctrica,Alta,Atendida,12/07/2024,23,Telecomunicaciones
+462,7/12/2023,2023-12,00:10:00,Santa Rosa,Línea 1,TVM,Falla eléctrica,Baja,Atendida,8/12/2023,23,Telecomunicaciones
+463,13/08/2023,2023-08,13:34:00,Santa Rosa,Línea 1,MET,Daño en infraestructura,Baja,Atendida,13/08/2023,5,Telecomunicaciones
+464,21/08/2024,2024-08,12:01:00,La Cultura,Línea 1,TVM,Daño en infraestructura,Media,Atendida,22/08/2024,14,Telecomunicaciones
+465,8/12/2023,2023-12,15:19:00,Pumacahua,Línea 1,Ascensor,Daño en infraestructura,Alta,Atendida,8/12/2023,16,Mantenimiento
+466,19/03/2023,2023-03,05:42:00,Villa El Salvador,Línea 1,MET,Falla eléctrica,Alta,Atendida,20/03/2023,24,Telecomunicaciones
+467,11/07/2024,2024-07,17:10:00,Villa El Salvador,Línea 1,TVM,Daño en infraestructura,Baja,Atendida,13/07/2024,24,Telecomunicaciones
+468,23/04/2024,2024-04,05:46:00,Angamos,Línea 1,TVM,Falla mecánica,Media,En curso,,,Telecomunicaciones
+469,5/04/2023,2023-04,04:21:00,Santa Rosa,Línea 1,Torniquete,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+470,6/03/2023,2023-03,10:24:00,Bayóvar,Línea 1,Ascensor,Mantenimiento preventivo,Media,En curso,,,Mantenimiento
+471,17/11/2023,2023-11,22:38:00,Santa Rosa,Línea 1,Escalera eléctrica,Falla eléctrica,Baja,Pendiente,,,Mantenimiento
+472,22/12/2023,2023-12,04:27:00,San Borja Sur,Línea 1,TVM,Falla eléctrica,Baja,Atendida,22/12/2023,11,Telecomunicaciones
+473,30/10/2023,2023-10,13:48:00,Gamarra,Línea 1,MET,Falla eléctrica,Alta,Atendida,1/11/2023,20,Telecomunicaciones
+474,20/09/2024,2024-09,12:18:00,San Borja Sur,Línea 1,TVM,Mantenimiento preventivo,Baja,Atendida,22/09/2024,8,Telecomunicaciones
+475,19/09/2023,2023-09,18:23:00,Santa Rosa,Línea 1,TVM,Mantenimiento preventivo,Baja,En curso,,,Telecomunicaciones
+476,24/10/2024,2024-10,05:22:00,Gamarra,Línea 1,MET,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+477,20/12/2024,2024-12,22:51:00,Villa El Salvador,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Baja,Atendida,20/12/2024,14,Mantenimiento
+478,2/04/2023,2023-04,05:30:00,San Carlos,Línea 1,Ascensor,Falla mecánica,Baja,Pendiente,,,Mantenimiento
+479,29/08/2024,2024-08,17:14:00,San Carlos,Línea 1,Ascensor,Mantenimiento preventivo,Baja,Pendiente,,,Mantenimiento
+480,27/11/2023,2023-11,10:18:00,San Carlos,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Baja,Pendiente,,,Mantenimiento
+481,19/04/2024,2024-04,03:42:00,Santa Rosa,Línea 1,TVM,Mantenimiento preventivo,Alta,Atendida,20/04/2024,23,Telecomunicaciones
+482,13/06/2023,2023-06,22:05:00,Pumacahua,Línea 1,Ascensor,Mantenimiento preventivo,Media,Atendida,13/06/2023,24,Mantenimiento
+483,22/12/2024,2024-12,22:51:00,Atocongo,Línea 1,Radio,Falla mecánica,Alta,Atendida,24/12/2024,14,Telecomunicaciones
+484,27/02/2023,2023-02,11:51:00,Villa El Salvador,Línea 1,TVM,Mantenimiento preventivo,Media,Atendida,1/03/2023,22,Telecomunicaciones
+485,25/02/2023,2023-02,06:14:00,San Borja Sur,Línea 1,Torniquete,Falla mecánica,Alta,Atendida,26/02/2023,5,Telecomunicaciones
+486,2/06/2023,2023-06,16:58:00,Bayóvar,Línea 1,TVM,Mantenimiento preventivo,Media,Pendiente,,,Telecomunicaciones
+487,27/11/2024,2024-11,16:00:00,Pumacahua,Línea 1,MET,Falla mecánica,Media,En curso,,,Telecomunicaciones
+488,27/10/2023,2023-10,16:10:00,Angamos,Línea 1,Torniquete,Falla mecánica,Media,Atendida,27/10/2023,13,Telecomunicaciones
+489,19/03/2024,2024-03,21:36:00,Ayacucho,Línea 1,Radio,Falla mecánica,Baja,Pendiente,,,Telecomunicaciones
+490,23/01/2023,2023-01,11:38:00,Bayóvar,Línea 1,Escalera eléctrica,Falla eléctrica,Alta,Atendida,24/01/2023,1,Mantenimiento
+491,21/09/2024,2024-09,11:08:00,La Cultura,Línea 1,Radio,Daño en infraestructura,Media,Atendida,23/09/2024,22,Telecomunicaciones
+492,11/02/2024,2024-02,02:36:00,Santa Rosa,Línea 1,TVM,Falla eléctrica,Alta,Pendiente,,,Telecomunicaciones
+493,3/02/2024,2024-02,18:33:00,Atocongo,Línea 1,Ascensor,Falla mecánica,Alta,Atendida,4/02/2024,15,Mantenimiento
+494,3/02/2023,2023-02,21:23:00,Cabitos,Línea 1,MET,Falla mecánica,Baja,Atendida,5/02/2023,9,Telecomunicaciones
+495,27/07/2024,2024-07,20:35:00,San Carlos,Línea 1,MET,Mantenimiento preventivo,Alta,En curso,,,Telecomunicaciones
+496,1/12/2024,2024-12,05:02:00,Pumacahua,Línea 1,Escalera eléctrica,Falla mecánica,Alta,Atendida,3/12/2024,7,Mantenimiento
+497,11/10/2024,2024-10,21:26:00,La Cultura,Línea 1,MET,Daño en infraestructura,Alta,En curso,,,Telecomunicaciones
+498,8/12/2023,2023-12,03:32:00,Bayóvar,Línea 1,Escalera eléctrica,Mantenimiento preventivo,Media,Atendida,8/12/2023,7,Mantenimiento
+499,21/02/2023,2023-02,15:24:00,Bayóvar,Línea 1,Torniquete,Falla mecánica,Baja,Atendida,22/02/2023,17,Telecomunicaciones
+500,28/10/2024,2024-10,20:14:00,Angamos,Línea 1,TVM,Mantenimiento preventivo,Baja,Atendida,28/10/2024,15,Telecomunicaciones
