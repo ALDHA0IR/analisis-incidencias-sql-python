@@ -19,6 +19,16 @@ identificando tendencias mensuales, diferencias por prioridad y área responsabl
 3. Exportación a CSV optimizado
 4. Visualización y análisis en Power BI
 
+📊 Visualizaciones (Power BI)
+
+El dashboard incluye:
+- Tiempo promedio de atención por prioridad
+- Comparación por área responsable
+- Tendencia mensual de incidencias atendidas
+
+📸 Ejemplo del dashboard:
+![Dashboard Power BI](powerbi/dashboard_preview.png)
+
 ## 📂 Estructura del repositorio
 - `data/raw`: dataset original
 - `data/processed`: datos limpios para Power BI
