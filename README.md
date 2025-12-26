@@ -19,7 +19,7 @@ identificando tendencias mensuales, diferencias por prioridad y área responsabl
 3. Exportación a CSV optimizado
 4. Visualización y análisis en Power BI
 
-📊 Visualizaciones (Power BI)
+## 📊 Visualizaciones (Power BI)
 
 El dashboard incluye:
 - Tiempo promedio de atención por prioridad
@@ -38,15 +38,16 @@ El dashboard incluye:
 - `powerbi`: dashboard final
 
 ## 📈 Principales insights
-- El tiempo promedio de atención es de ~12.6 horas
+- El tiempo promedio de atención de incidencias atendidas es de ~12.6 horas
 - Las incidencias de prioridad media concentran mayor tiempo acumulado
 - Se observa una tendencia al alza en ciertos meses del año
 
 ## 📌 Autor
 
-Aldhair Deyner Gonzales Vicente  
+**Aldhair Deyner Gonzales Vicente**  
 Analista de Datos Junior | SQL · Python · Power BI  
 
-Este proyecto fue desarrollado como parte de mi formación práctica
-en análisis de datos, con el objetivo de aplicar un flujo completo
-desde base de datos hasta visualización.
+Proyecto desarrollado como parte de mi formación práctica en análisis de datos,
+aplicando un flujo completo desde base de datos relacional hasta visualización
+para toma de decisiones.
+
