@@ -32,4 +32,10 @@ identificando tendencias mensuales, diferencias por prioridad y área responsabl
 - Se observa una tendencia al alza en ciertos meses del año
 
 ## 📌 Autor
-Proyecto realizado por **[Tu nombre]** como práctica de análisis de datos.
+
+Aldhair Deyner Gonzales Vicente  
+Analista de Datos Junior | SQL · Python · Power BI  
+
+Este proyecto fue desarrollado como parte de mi formación práctica
+en análisis de datos, con el objetivo de aplicar un flujo completo
+desde base de datos hasta visualización.
