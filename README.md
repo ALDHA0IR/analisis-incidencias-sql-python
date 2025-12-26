@@ -27,6 +27,7 @@ El dashboard incluye:
 - Tendencia mensual de incidencias atendidas
 
 📸 Ejemplo del dashboard:
+
 ![Dashboard Power BI](powerbi/dashboard_preview.png)
 
 ## 📂 Estructura del repositorio
