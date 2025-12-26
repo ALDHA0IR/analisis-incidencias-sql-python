@@ -1,2 +1,35 @@
-# analisis-incidencias-sql-python
-Proyecto de análisis de datos con SQL y Python sobre incidencias operativas, enfocado en consultas SQL, análisis exploratorio y generación de insights a partir de datos reales simulados.
+# 📊 Análisis de Incidencias Operativas
+
+Proyecto de análisis de datos enfocado en el tiempo de atención de incidencias operativas,
+utilizando **SQL, Python (pandas) y Power BI**.
+
+## 🧠 Objetivo
+Analizar el comportamiento del tiempo de atención de incidencias atendidas,
+identificando tendencias mensuales, diferencias por prioridad y área responsable.
+
+## 🛠️ Tecnologías utilizadas
+- MySQL
+- SQL
+- Python (pandas, matplotlib)
+- Power BI
+
+## 🔄 Flujo del proyecto
+1. Extracción de datos desde MySQL
+2. Limpieza y filtrado en Python (solo incidencias atendidas)
+3. Exportación a CSV optimizado
+4. Visualización y análisis en Power BI
+
+## 📂 Estructura del repositorio
+- `data/raw`: dataset original
+- `data/processed`: datos limpios para Power BI
+- `sql`: consultas SQL utilizadas
+- `python`: análisis en Jupyter Notebook
+- `powerbi`: dashboard final
+
+## 📈 Principales insights
+- El tiempo promedio de atención es de ~12.6 horas
+- Las incidencias de prioridad media concentran mayor tiempo acumulado
+- Se observa una tendencia al alza en ciertos meses del año
+
+## 📌 Autor
+Proyecto realizado por **[Tu nombre]** como práctica de análisis de datos.
